@@ -1,0 +1,14 @@
+C:\Program Files\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Building prefix dict from the default dictionary ...
+Loading model from cache C:\Users\admin\AppData\Local\Temp\jieba.cache
+Loading model cost 1.131 seconds.
+Prefix dict has been built succesfully.
+2018-08-07 16:52:11.648709: I T:\src\github\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+C:\Program Files\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Building prefix dict from the default dictionary ...
+Loading model from cache C:\Users\admin\AppData\Local\Temp\jieba.cache
+Loading model cost 1.130 seconds.
+Prefix dict has been built succesfully.
+2018-08-07 16:53:45.514248: I T:\src\github\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
