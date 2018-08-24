@@ -1,0 +1,28 @@
+C:\Program Files\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Traceback (most recent call last):
+  File "main.py", line 363, in <module>
+    seq_obj = Seq2seq()
+  File "main.py", line 47, in __init__
+    time_major=True)
+  File "C:\Users\admin\Desktop\learning-nlp\chapter-10\seq2seq\dynamic_seq2seq_model.py", line 61, in __init__
+    self._make_graph()
+  File "C:\Users\admin\Desktop\learning-nlp\chapter-10\seq2seq\dynamic_seq2seq_model.py", line 85, in _make_graph
+    self._init_decoder()
+  File "C:\Users\admin\Desktop\learning-nlp\chapter-10\seq2seq\dynamic_seq2seq_model.py", line 228, in _init_decoder
+    decoder_fn_train = seq2seq.simple_decoder_fn_train(encoder_state=self.encoder_state)
+AttributeError: module 'tensorflow.contrib.seq2seq' has no attribute 'simple_decoder_fn_train'
+C:\Program Files\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Traceback (most recent call last):
+  File "main.py", line 363, in <module>
+    seq_obj = Seq2seq()
+  File "main.py", line 47, in __init__
+    time_major=True)
+  File "C:\Users\admin\Desktop\learning-nlp\chapter-10\seq2seq\dynamic_seq2seq_model.py", line 61, in __init__
+    self._make_graph()
+  File "C:\Users\admin\Desktop\learning-nlp\chapter-10\seq2seq\dynamic_seq2seq_model.py", line 85, in _make_graph
+    self._init_decoder()
+  File "C:\Users\admin\Desktop\learning-nlp\chapter-10\seq2seq\dynamic_seq2seq_model.py", line 228, in _init_decoder
+    decoder_fn_train = seq2seq.simple_decoder_fn_train(encoder_state=self.encoder_state)
+AttributeError: module 'tensorflow.contrib.seq2seq' has no attribute 'simple_decoder_fn_train'
