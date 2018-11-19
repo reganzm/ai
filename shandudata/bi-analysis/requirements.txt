@@ -1,0 +1,5 @@
+--index https://pypi.pinbot.me/simple
+--trusted-host pypi.pinbot.me
+auto-tool
+pinbot-clean
+pyspark==2.3.0

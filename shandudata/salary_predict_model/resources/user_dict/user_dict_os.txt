@@ -1,0 +1,10 @@
+windows 100 os
+linux 100 os
+ios 100 os
+IOS 100 os
+andriod 100 os
+Android 100 os
+unbuntu 100 os
+unix 100 os
+Unix 100 os
+Linux 100 os

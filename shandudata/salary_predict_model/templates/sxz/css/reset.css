@@ -1,0 +1,132 @@
+/* @group Reset */
+html, div, body, span, applet, object, iframe,  
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,  
+a, abbr, acronym, address, big, cite, code,  
+del, dfn, em, font, img, ins, kbd, q, s, samp,  
+small, strike, strong, sub, sup, tt, var,  
+b, u, i, center,  
+dl, dt, dd, ol, ul, li,  
+fieldset, form, label, legend,  
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	line-height: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+/* remember to define focus styles! */
+
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+
+ins {
+	text-decoration: none;
+}
+
+del {
+	text-decoration: line-through;
+}
+
+sub{ position: relative; bottombottom: -0.2em;vertical-align: baselinebaseline}  
+
+small,sup,sub{ font-size: 85%; } 
+  
+/* tables still need 'cellspacing="0"' in the markup */
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a{
+	text-decoration: none;
+	line-height: 1.5em;
+}
+p,h1,h2,h3,h4,h5,h6{
+	line-height: 1.5em;
+	font-weight: normal;
+}
+img{
+	/*background: #eee;*/
+}
+/* @end */
+
+/******************** font-set begin ********************/
+body,input,select,textarea{font-family:"microsoft yahei",Arial, Helvetica, pxsans-serif;color:#666;font-size:14px; border:none;word-break: break-all;}
+.simsun{ font-family:simsun}
+.tahoma{ font-family:Tahoma, Geneva, sans-serif;}
+.georgia{font-family:Georgia, "Times New Roman", Times, serif}
+.arial{ font-family: arial}
+.yahei,code{ font-family: "微软雅黑"}
+em{ font-style: normal;}
+
+/******************** clear floating begin *********************/
+.clearfix:after{ clear:both; content:"020"; display:block; height:0; visibility:hidden; line-height:0; font-size:1px;}
+.clearfix{ zoom:1}
+.Left{ float: left;}
+.Right{ float: right;}
+.inline-block{ display: inline-block;}
+.text-center{ text-align: center;}
+.text-left{ text-align: left;}
+.text-right{ text-align: right;}
+.relative{ position: relative;}
+.absolute{ position: absolute;}
+.fixed{ position: fixed;}
+.none{ display: none;}
+.clearBoth{ clear: both}
+.text-overflow{ white-space: nowrap; text-overflow: ellipsis; overflow: hidden; display: block; }
+
+/******************** others begin ********************/  
+.font-bold{ font-weight:bold}
+.colorblue,.colorblue:hover { color:#003366 ;}
+.colorRed,a.colorRed:hover{ color: #FF0000; }
+.colorLime,a.colorLime:hover{ color: #00FF00; }
+.colorGreen,a.colorGreen:hover{ color: #008000; }
+.colorBlue,a.colorBlue:hover{ color: #0000FF; }
+.colorOrange,a.colorOrange:hover{ color: #FFA500; }
+.black{color: #000}
+.mt20{ margin-top: 20px !important;}
+.mt10{ margin-top: 10px !important;}
+.ml20{ margin-left: 20px !important;}
+.ml10{ margin-left: 10px !important;}
+h1{ 
+	font-size: 24px;
+	font-size: 1.5rem;
+}
+h2{ 
+	font-size: 22px;
+	font-size: 1.375rem;
+}
+h3{ 
+	font-size: 20px;
+	font-size: 1.25rem;
+}
+h4{ 
+	font-size: 18px;
+	font-size: 1.125rem;
+}
+h5{ 
+	font-size: 16px;
+	font-size: 1rem;
+}
+h6{ 
+	font-size: 14px;
+	font-size: .875rem;
+}
+body{
+	background-color: #11192e;
+	min-width: 320px;
+	overflow-x: hidden;
+	width: 100%; 
+	word-break: break-all;
+}

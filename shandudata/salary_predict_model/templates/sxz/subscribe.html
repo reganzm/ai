@@ -1,0 +1,91 @@
+<!doctype html>
+<html class="w-footer">
+<head>
+<title>算薪资</title>
+<meta name="keywords" content="keywords" />
+<meta name="description" content="description" />
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="black" name="apple-mobile-web-app-status-bar-style">
+<meta content="telephone=no" name="format-detection">
+<meta http-equiv="pragma" content="no-cache">
+<meta name="renderer" content="webkit">
+<link href="css/reset.min.css" type="text/css" rel="stylesheet" />
+<link href="css/sxz.min.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<script type="text/html" id="JS_footer_tem">
+    <div class="footer" id="JS_footer">
+        <div class="bottom-box">
+            <div class="earth">
+                <img src="img/common/earth.png" alt="" width="100%">
+            </div>
+            <div class="person woman sj"></div>
+        </div>
+    </div>
+</script>
+
+<div class="content">
+    <h2 class="select-title step-1">试试量身定制的<img src="img/email/hunter.png">体验吧~↓↓↓</h2>
+    <div class="leave-email">
+        <h4>聘宝已经为你准备好了匹配职位<br>输入邮箱获取定制职位</h4>
+        <div class="text-center clearfix">
+            <input type="email" name="email" value="" placeholder="输入你的邮箱" required><button type="button" id="JS_save"><img src="img/email/correct.png" height="20" alt=""></button>
+        </div>
+    </div>
+</div>
+
+<script type="text/html" id="JS_background">
+    <div class="stairs-wrapper">
+        <img class="stars stars-animation" src="img/common/background.png">
+        <img class="stars stars-animation-two" src="img/common/background.png">
+        <img class="stars stars-animation-three" src="img/common/background.png">
+    </div>
+</script>
+
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/calculator.min.js"></script>
+<script type="text/javascript" charset="utf-8" async defer>
+    $(function(){
+        loadEmial();
+        $('#JS_save').on('click', function(){
+            var $this = $( this ),
+                id = getUrlParam('id'),
+                email = $this.prev().val();
+                data = JSON.stringify( { id: id , email: email } );
+            if( $this.hasClass('lock') || !email || !id ) return false;
+            if( !/^([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+\.[a-zA-Z]{2,3}$/.test( email ) ){
+                alert('邮件格式不对！');
+                return false;
+            };
+            $this.addClass('lock');
+            $.get( '/save_email?data=' + data , {} , function( res ){
+                if( res && res.status == 'ok' ){
+                    alert('操作成功！');
+                    history.back(-1);
+                }else if( res && res.msg ){
+                    alert( res.msg );
+                }else{
+                    alert('操作失败！请刷新再试一下吧！');
+                };
+                $this.removeClass('lock');
+            } , 'json' ).fail(function(){
+                $this.removeClass('lock');
+            });
+        });
+    });
+</script>
+<script>
+//统计
+var _hmt = _hmt || [];
+(function() {
+      var hm = document.createElement("script");
+      hm.src = "//hm.baidu.com/hm.js?08c0cd3d1db455abadb00acc4d01f40f";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+高中 100 degree
+大专 100 degree
+本科 100 degree
+大学本科 100 degree
+本科学历 20 degree
+硕士 100 degree
+研究生 100 degree
+MBA 100 degree
+mba 100 degree
+博士 100 degree
+博士后 100 degree

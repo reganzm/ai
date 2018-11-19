@@ -1,0 +1,5 @@
+训练步骤:
+1, python extract_data.py : 从原始的简历json数据，提取出重要的字段，并过滤掉字段不全的数据;
+2, python to_vector.py : 将上一步的结果数据，转为数值向量形式，并过滤掉不关心的地点和职位类型；
+3, python split_data.py : 拆分数据，得到训练集和测试集;
+4, python train_regressor.py train.data test.data : 训练并测试

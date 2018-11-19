@@ -1,0 +1,13 @@
+.idea/
+*.pyc
+*.DS_Store
+*.sqlite3
+settings_dev.py
+logs/
+spark-warehouse/
+output_data/
+__pycache__
+note/
+*.wpu
+*.wpr
+

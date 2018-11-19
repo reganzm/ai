@@ -1,0 +1,493 @@
+####1 技术
+>技术,科技,总工,高工,程序员,软件开发,软件研发,开发,研发,软件工程师,工程,开发工程师,软件工程师,工程师
+
+####1.1 语言
+>>java
+>>>java,jvm,jdk,j2se,j2ee,j2me,structs,ssh,weblogic,glassfish,glassfash,resin,tomcat,websphere,springmvc,hibernate,mybatis,spring,servlet,jsp,jboss,ibatis,jdbc,jms,jta,struts2,structs2,shiro,apache,nginx,angularjs,jce,jca,ice,webwork,cxf,ssi,ejb,easyui,mvvm,jndi,bean,javabean,jstl,orm,jmx,jni,freemarker,velocity
+
+>>c++
+>>>c++,c,c/c++,windows编程,窗口编程,界面编程,windowsapi,stl,proc,win32,win32api,gcc,g++,boost,mfc,qt,vc,vc++,com,wtl,atl,com/atl,网络编程,opengl,opencv,c/s,gdb,makefile,gdi,dll,cgi,iocp,epoll,poll,kqueue,linux编程,linux环境编程,unix环境编程,object-c,objective-c,obj-c,oc,objective,ace,c++.net,vc++.net
+
+>>php
+>>>php,thinkphp,phpadmin,phpcms,lamp,php程序员,xslt,yii,smarty,lnmp,zend,ci,discuz,dedecms,cms,codeigniter,zendframework
+
+>>.net
+>>>.net,c#,vb,asp.net,f#,asp,wcf,windows服务,nhibernate,vsts,ado.net,wpf,wcf,entityframework,winform,castle,wwf,silverlight
+
+>>python
+>>>python,django,tornado,numpy,pandas,scipy,flask,greenlet,beautifulsoup,scrapy
+
+>>delphi
+>>>delphi,vcl,windowsapi,fastreport
+
+>>perl
+>>>perl,cpan
+
+>>ruby
+>>>ruby,rails,sinatra,ror
+
+>>go
+>>>go,golang,beego,goroutine,gccgo
+
+>>shell
+>>>sh,shell,ksh,csh,bash,awk,sed,crontab,cron,tr,vim,vi
+
+>>erlang
+>>>erlang
+
+
+####1.2 前端
+>>web前端
+>>>web前端,前端,h5,web,html,dhtml,html5,restful,javascript,as3,js,actionscript,as,jquery,dojo,css,css3,scss,backbone,bootstrap,node,nodejs,node.js,js,javascript,extjs,ext,gwt,ajax,easyui,websevice,cgi,xhtml,wsdl,iis,dojo,prototype,coffeescript,sencha,raphael,jqtouch,cookie,flash,xml,dom
+
+>>webgame前端
+>>>webgame前端,页游前端,页游客户端,页游,客户端,前端,flash,as3,as,webgame,actionscript3,actionscript,flex,flash3d,cegui,amf
+
+>>客户端
+>>>客户端,mfc,gdi,d3d,windows编程,窗口编程,界面编程,windowsapi,stl,proc,win32,win32api,gcc,g++,boost,mfc,qt,vc,vc++,com,wtl,atl,com/atl,网络编程,opengl,opencv,c/s,gdb,makefile,gdi,dll,cgi,iocp,epoll,poll,kqueue,linux编程,linux环境编程,unix环境编程,ace,c++.net,vc++.net
+
+
+####1.3 终端(移动开发)
+>>android
+>>>android,安卓,手机,移动,终端,移动终端,adk,adt,phonegap,ndk,androidsdk,手机软件,phone,launcher,sms,mms,mmi,app,symbian,gis,lbs,jquerymobile,titanium,xmpp
+
+>>wp
+>>>wp,手机,移动,终端,移动终端,windows_phonea,win7,win8,wp8,winphone,windowsphone,xaml,silverlight,手机软件,phone,launcher,sms,mms,mmi,app,symbian,gis,lbs,jquerymobile,titanium,xmpp
+
+>>ios
+>>>ios,手机,移动,终端,移动终端,xcode,iphone,ipad,cocoa,appstore,swift,objective-c,objectc,obj-c,objc,objectivec,iossdk,metaio,arc,mrc,uikit,gcd,nsthread,runloop,iwebkit,手机软件,phone,launcher,sms,mms,mmi,app,symbian,gis,lbs,jquerymobile,titanium,xmpp
+
+>>unity3d
+>>>unity3d,unity,unityscript,u3,u3d,3ds,boo,shader,shaderlab,ngui,3d,2d,uni2d,unity2d,2dtoolkit,三维,虚拟现实,手游,游戏,移动游戏,引擎,客户端,端游,图形学,3dmax,3dsmax,maya,力学,建模,dx,javeerrorscript,d3d
+
+>>cocos2d
+>>>cocos2d,cocos2d-x,coco2d,cocoa,ezgui,lua,图形编程
+
+
+####1.4 服务端(服务器,后台)
+>>服务器
+>>>服务器,后台,服务端,后端,tcp,udp,tcp/ip,tcp/udp,rtp,rtcp,rtsp,rtmp,流媒体,传输协议,网络传输,网络通信,通信协议,多线程,socket,memcache,mq,多进程,rabbitmq,thrift,rpc,protobuf,lua,lb,gslb,cdn,activemq,gdb,makefile,gdi,dll,cgi,iocp,epoll,poll,kqueue,linux编程,linux环境编程,unix环境编程,并发
+
+
+#### 1.5硬件相关(硬件,嵌入式,电子,通信,多媒体)
+>>硬件
+>>>硬件,芯片,嵌入式,自动化,单片机,电路设计,射频,驱动开发,mmi,系统集成,fpga,dsp,arm,pcb,模具设计,热传导,材料,射频,usb,驱动,boa,labview,rs232,rs485,频谱,采集卡,串口,并口,传感器,gdi,protel,eda,candence,vxworks,bsp,cavium,usart,i2c,spi,mtk,高通,pads,xilinx,vhdl,verilog,orcad,allegro,pci,pcie,rtos
+
+>>电子通信
+>>电子,通信,电信,有线传输,无线传输,电子技术研发,数据通信,无线通信工程师,移动通信工程师
+
+>>多媒体
+>>>多媒体,编解码,音视频,视频,音频,图像处理,mpeg,h264,aac,mp3,mp4,speex,directx,direct,ffmpeg,xmpp,dx,3dmax,3dsmax,maya
+
+
+####1.6 支持开发
+>>企业软件
+>>>企业软件,erp,oa,crm,sap
+
+>>测试
+>>>测试,软件测试,test,qa,测试工程师,自动化测试,功能测试,性能测试,测试开发,游戏测试,白盒测试,灰盒测试,黑盒测试,手机测试,硬件测试,测试经理,测试软件,测试用例,测试计划,测试数据,测试报告,跟踪问题,问题跟踪,集成测试,系统测试,bug,jenkins,robot,bugzilla,单元测试,cmmi,质量保证
+
+>>运维
+>>>运维,维护,运维工程师,运维开发工程师,网络工程师,系统工程师,idc,cdn,系统管理员,运维经理,系统维护,服务器安装,系统安装,应用部署,服务监控,故障处理,配置管理,配置更新,配置维护,系统升级,故障诊断,性能调优,系统建设,应急预案,上线部署,系统上线,系统下线,排除故障,故障原因,故障排除,灾备方案,监控,技术支持,故障修正,运维规范,安全规范,故障,服务器管理,网络平台,网络系统,cca,ccna,ccnp,ccie,gslb,cdn
+
+>>安全
+>>>安全,安全运维,安全漏洞,漏洞,病毒,木马,ddos,攻防,安全规范,抓包,风险评估,信息安全,网络安全,系统安全,防火墙,网络扫描,https,sniffer,网络系统,安全策略,安全预案,sql注入,xss,渗透
+
+>>dba
+>>>dba,数据库,存储过程,触发器,游标,表设计,范式,sql,rdbms,pl,pl/sql,mysql,sqlserver,oracle,db2,mongodb,redis,mssql,nosql,cassandra,sqlite,postgresql,orm,crud,informix,memcached,leveldb,sybase,视图,view,ocm,ocp,innodb,dataguard,存储,索引,分表,分库,主从,热备,备份,列存储,列式存储,e-r,er,tsql,t-sql,master,slave,myisam,事务锁,数据库锁,加锁,并发,吞吐量,高性能,slaves,cmdba,数据备份,数据恢复,修复数据,数据修复,riak,ssis,ssrs,ssb,rac,负载均衡,函数,容灾,灾备,事务,库,表,字段,index,数据仓库,sql注入,erwin,powerdesigner
+
+
+####1.7 分布式
+>>hadoop
+>>>hadoop,java,大数据,分布式,分布式存储,hdfs,flume,spark,hive,impala,nosql,hbase,kafka,zookeeper,streaming,storm,mapreduce,mr,map,reduce,云计算,云存储,sqoop,pig,impala,scala,hql,greenplum,teradata,neo4j,yarn,mesos,drill,rcfile,sequencefile,parquet,vertica,mahout,map-reduce,r语言,r,cdh,pb,shark,海量,etl,nfs,dfs,s3
+
+>>云计算/云存储
+>>>云计算,分布式计算,网格计算,云平台,云存储,kvm,xen,虚拟化,分布式系统,分布式,cloudstack,vmware,iaas,paas,citrix,虚拟桌面,云桌面,hyper-v,eucalyptus,vcp,私有云,数据中心,idc,云解决方案,云方案,云托管,nova,glance,keystone,cinder,heat,fusionmanager,itil,cloudfoundry,openshift,saas,nfs,nas,san,vsphere,libvirt,xenserver,s3,hdfs,glusterfs,gfs,ceph,riak
+
+
+####1.8 算法分析
+>>数据分析
+>>>数据分析,数据分析师,系统分析,数据模型,数据运营,数据分布,统计,统计学,分析,统计分析,bi,spss,weka,clementine,matlab,bi,olap,oltp,intelligence,指标体系,用户行为,决策,dw,pentaho,tableau,datastage,informatic,powercenter,透视表,eviews
+
+>>数据挖掘
+>>>数据挖掘,统计,分析,挖掘,python,scala,spark,r,matlab,datamining,mining,spss,weka,clementine,hadoop,shark,hive,数据分析,solr,es,elastic,search,lucene,nlp,数据仓库,sas,海量,统计分析,聚类,分类,预测,关联关系,关联规则,关联分析,关联挖掘,svm,贝叶斯,bayesian,bayes,决策树,神经网络,深度学习,learning,semantic,逻辑回归,人工智能,模式识别,ml,机器学习,建模,模型,算法,自然语言处理,信息检索,retrieval,搜索算法,搜索,精准推荐,推荐,搜索引擎,爬虫,spider,crawler,pagerank,nutch,larbin,lr,regression,tree,clustering,kmeans,k-means,recommend,recommendation,arima,用户画像,特征抽取,指标挖掘,用户行为,非结构化,序列挖掘,序列分析,序列标注,dw,crm,ecif,etl,mpi,heritrix
+
+
+####1.9 技术支持
+>>技术支持
+>>>实施工程师,售前,售前工程师,售后,售后工程师,it支持,技术支持,维护工程师,维护经理,实施顾问,软件实施
+
+
+####1.10 管理类(技术主管-原高端技术)
+>>项目管理
+>>>项目经理,项目助理,项目专员,项目负责人,项目专员/助理,项目执行/协调人员,it项目执行/协调人员,it项目执行,项目部经理
+
+>>项目主管
+>>>技术部经理,项目部经理,技术经理,研发经理,项目组长,技术主管,it经理,软件部经理
+
+>>技术主管
+>>>技术主管,技术部经理,研发经理,开发主管,主程,技术经理,技术总监,架构师,cto,运维总监,技术合伙人,技术顾问,项目总监,测试总监,安全专家,高端技术职位
+
+
+
+####2 产品
+>产品
+
+####2.1 产品经理
+>>产品经理
+>>>产品经理,网页产品经理,游戏产品经理,页游产品经理,端游产品经理,移动产品经理,产品助理,数据产品经理,电商产品经理,产品实习生,axure
+
+####2.2 产品设计师
+>>产品设计师
+>>>产品设计师,网页产品设计师,无线产品设计师
+
+####2.3 高端产品
+>>高端产品
+>>>产品部经理,产品总监,产品负责人,游戏制作人,游戏负责人
+
+
+
+####3 设计
+>设计
+
+####3.1 设计师
+>>设计师
+>>>设计师,ps,photoshop,coreldraw,矢量图
+
+####3.2 美术设计
+>>美术
+>>>美术,美术设计,主美,手绘,绘画
+
+####3.3 平面设计
+>>平面设计
+>>>平面设计,美工,网页美工,平面设计师,界面设计
+
+####3.4 网页设计/制作/美工
+>>网页设计/制作/美工
+>>>网页设计,网页制作,网站设计,网页美工
+
+####3.5 视觉设计
+>>视觉设计
+>>>视觉设计,视觉设计师,网页设计师,flash设计师,app设计师,ui设计师,ui,ui设计,美术设计师,2d,3d,广告设计师,多媒体设计师,cad,photoshop,ps,coreldraw,矢量图
+
+####3.6 主美
+>>主美
+>>>主美,主美术
+
+####3.7 交互设计
+>>交互设计
+>>>交互设计,用户体验,ue,ui,交互设计师,无线交互设计师,网页交互设计师,硬件交互设计师,交互设计经理,交互设计主管,交互设计总监
+
+####3.8 用户研究
+>>用户研究
+>>>用户研究,数据分析师,用户研究员,游戏数值策划
+
+####3.9 设计主管
+>>设计主管
+>>>设计主管,设计经理,设计总监,视觉设计经理,视觉设计主管,视觉设计总监,交互设计经理,交互设计主管,交互设计总监,用户研究经理,用户研究主管,用户研究总监
+
+####3.10 动画
+>>动画
+>>>动画,maya,动画师,特效,三维,3d设计,3d
+
+####3.11 原画
+>>原画
+>>>原画,角色原画,场景原画,原画师
+
+####3.12 场景
+>>场景 
+>>>场景,场景原画,场景设计
+
+####3.13 企划
+>>企划
+>>>企划,企业策划
+
+####3.14 特效
+>>特效
+>>>特效,游戏特效,游戏动作,特效师
+
+####3.15 游戏界面设计师
+>>游戏界面设计师
+>>>游戏界面设计师,游戏界面设计师,游戏界面,设计师
+
+####3.16 策划
+>>策划
+>>>策划,游戏策划,主策划,主策,系统策划,剧情策划,执行策划,游戏角色,游戏场景
+
+####3.17 数值策划
+>>数值策划
+>>>数值策划,数值组长,数值
+
+####3.18 摄影师/摄像师
+>>摄影师/摄像师
+>>>摄影师,摄像师,摄影,摄像,摄相,照相,拍照
+
+
+
+####4 运营
+>运营
+####4.1 运营
+>>运营
+>>>运营,活动执行,网站营运专员,推广,用户运营,产品运营,数据运营,内容运营,活动运营,商家运营,品类运营,游戏运营,网络推广,运营专员,网店运营 新媒体运营,海外运营,运营经理,竞价,seo,sem
+
+####4.2 营运
+>>营运
+>>>营运,营运经理,营运专员
+
+####4.3 编辑
+>>编辑
+>>>美编,编辑组长,副主编,内容编辑,文案策划,记者,文案
+
+####4.4 运营主管
+>>运营主管
+>>>总编,主编,运营总监,coo,客服总监
+
+
+
+####5 市场与销售
+>市场与销售
+####5.1 市场/营销
+>>市场/营销
+>>>市场,营销,营销策划,营销员,bd专员,商务拓展,bd,business,商务,市场营销,市场策划,市场顾问,市场推广,seo,sem,商务渠道,商业数据分析,活动策划,网络营销,海外市场,政府关系
+
+####5.2 公关
+>>公关
+>>>公关,媒介经理,广告协调,品牌公关
+
+####5.3 销售
+>>销售
+>>>销售,业务跟单,业务员,促销,销售专员,销售经理,客户代表,大客户代表,bd经理,商务渠道,渠道销售,代理商销售,销售助理,电话销售,销售顾问,商品经理
+
+####5.4 区域经理
+>>区域经理
+>>>区域经理,大区经理,大区经理,业务经理,销售助理,大客户经理
+
+####5.5 客服
+>>客服
+>>>客服,售前咨询,售后客服,淘宝客服,客服经理,在线客服,话务,客服经理
+
+####5.6 外贸
+>>外贸
+>>>外贸,外贸业务员,国际贸易,外贸公司,报关,海运,外贸专员,外贸专员,外贸助理
+
+####5.7 供应链
+>>供应链
+>>>供应链,物流,仓储,物流配送,进销存,仓库管理员
+
+####5.8 采购
+>>采购
+>>>采购,采购专员,采购经理,商品经理,采销经理
+
+####5.9 投资
+>>投资
+>>>投资,分析师,投资顾问,投资经理,融资
+
+####5.10 品牌
+>>品牌
+>>>品牌,品牌专员,品牌主管,品牌总监
+
+####5.11 渠道
+>>渠道
+>>>渠道,业务拓展,业务支持,分销专员
+
+####5.12 推广
+>>推广
+>>>推广,网络推广,网站推广
+
+####5.14 客户服务
+>>客户服务
+>>>客户,客服,热线,售前,售后,客户关系,客户咨询,在线客服,客户服务专员,呼叫中心
+
+####5.15 媒介
+>>媒介
+>>>媒介,媒介专员,媒介经理
+
+####5.16 市场主管
+>>市场主管
+>>>市场主管,市场总监,销售总监,商务总监,cmo,公关总监,采购总监,投资总监
+
+
+
+####6 职能
+>职能
+####6.1 人力资源
+>>人力资源
+>>>人力资源,招聘专员,人资,招聘,hrbp,hra,人事,人力,hr,培训经理,薪资福利,薪酬,员工关系,绩效,绩效考核,人事专员,人力主管,人事经理,人力资源专员
+
+####6.2 出纳
+>>出纳
+>>>出纳,出纳员,收银员
+
+####6.3 培训
+>>培训
+>>>培训师,讲师,课程顾问
+
+####6.4 行政
+>>行政
+>>>行政,行政助理,总助,文秘,文员,秘书,行政专员,文档,资料管理,资料员
+
+####6.5 前台
+>>前台
+>>>前台,总机,接待,前台接待,前厅接待
+
+####6.6 财务
+>>财务
+>>>财务,会计,出纳,结算,税务,审计,风控,融资
+
+####6.7 法务
+>>法务
+>>>法务,律师,专利
+
+####6.8 翻译
+>>翻译
+>>>翻译,英语,日语,韩语,英语翻译,韩语翻译,日语翻译
+
+####6.9 后勤
+>>后勤
+>>>后勤,司机,驾驶员
+
+####7 电商
+>电商
+####7.1 淘宝
+>>淘宝 
+>>>网店,店长,天猫
+
+
+
+####8 管理层
+>管理层
+####8.1 高管
+>>高管
+>>>高管,总裁,副总,总经理,hrd,hrm,cfo,ceo,cto,cmo,coo,首席执行官,老板,合伙人,创始人
+
+####8.2 总监
+>>总监
+>>>总监,事业部经理,部门副经理,财务总监,财务经理,行政总监,行政经理,主管,部门管理,事业部管理,部门经理
+
+####8.3 组长(leader)
+>>组长
+>>>组长,负责人,leader
+
+####8.4 高级
+>>高级
+>>>高级,资深
+
+
+
+####9 其他
+>其他
+####9.1 实习生
+>>实习生
+>>>实习生,实习,助理,学生,试用期,试用
+
+####9.2 猎头
+>>猎头
+>>>猎头,猎头顾问,猎头中介
+
+####9.3 科研
+>>科研
+>>>科研,博士后,研究员,科研人员,讲师,助教,研究生
+
+####9.4 咨询
+>>咨询
+>>>咨询,咨询顾问,专业顾问
+
+####9.5 教师
+>>教师
+>>>教师,高中教师,大学教师,幼教,小学教师,中学教师,外语老师
+
+####9.6 摄影师
+>>摄影师
+>>>摄影,摄影师,艺术摄影
+
+####9.7 办公室
+>>办公室
+>>>办公室主任,车间主任
+
+####9.8 房地产
+>>房地产
+>>>房地产,置业顾问,地产
+
+####9.9 导演
+>>导演
+>>>导演,编导,影视制作,导演,编导
+
+####9.10 作家
+>>作家/编剧/撰稿人
+>>>作家,编剧,撰稿人
+
+####9.11 工业设计
+>>工业设计
+>>>工业产品设计,工业设计
+
+####9.12 兼职
+>>兼职
+>>>兼职教师,家教,促销员,勤工俭学,协销,临时,服务员
+
+####9.13 教务管理
+>>教务管理
+>>>教学,教务管理人员,教学人员
+
+####9.14 普工/操作工
+>>普工/操作工
+>>>普工,操作工
+
+####9.15 教务管理
+>>机械设计
+>>>机械工程师,机械,结构工程师
+
+####9.16 应届毕业生
+>>应届毕业生
+>>>应届生,大学,大专应届毕业生,毕业生
+
+####9.17 后期制作
+>>后期制作
+>>>剪辑,影视制作,后期合成
+
+####9.18 培训生
+>>培训生
+>>>储备干部,管培生
+
+####9.19 网管
+>>网管
+>>>网络管理员,核心网
+
+####9.20 店员/营业员/导购员
+>>店员/营业员/导购员
+>>>店员,导购员,导购员,导购
+
+####9.21 办事处/分公司/分支机构经理
+>>办事处/分公司/分支机构经理
+>>>办事处,分公司,分支机构经理
+
+####9.22 品质经理
+>>品质经理
+>>>品质经理 品质专员
+
+####9.23 技工
+>>技工
+>>>操作工,钳工,普工,装配工
+
+####9.24 招商
+>>招商
+>>>招商,招租,招商专员,招商经理
+
+####9.25 公务员/事业单位人员
+>>公务员/事业单位人员
+>>>公务,公务员,事业单位,科员
+
+####9.26 银行柜员
+>>银行柜员
+>>>银行柜员,柜员,柜台
+
+####9.27 导游
+>>导游
+>>>导游,旅行顾问,旅行顾问
+
+####9.28 理财
+>>理财
+>>>理财,理财顾问,理财经理
+
+####9.29 仓库/物料管理员
+>>仓库/物料管理员
+>>>仓库,物料管理员

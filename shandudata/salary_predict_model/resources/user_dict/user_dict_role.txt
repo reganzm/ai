@@ -1,0 +1,13 @@
+工程师 20 role
+产品经理 20 role
+设计师 20 role
+研究员 20 role
+测试 20 role
+开发 20 role
+开发经理 50 role
+前端 50 role
+程序员 50 role
+招聘经理 50 role
+招聘专员 50 role
+主程 50 role
+人事 100 role
